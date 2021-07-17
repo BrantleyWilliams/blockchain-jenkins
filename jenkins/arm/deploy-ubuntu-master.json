@@ -189,7 +189,7 @@
                             "fileUris": [
                                 "https://raw.githubusercontent.com/zhihexireng/blockchain-jenkins/master/jenkins/install-jenkins-master-ubuntu.sh"
                             ],
-                            "commandToExecute": "sh master-install.sh"
+                            "commandToExecute": "sh install-jenkins-master-ubuntu.sh"
                         }
                     }
                 }
